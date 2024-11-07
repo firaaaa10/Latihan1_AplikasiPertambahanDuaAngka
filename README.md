@@ -86,8 +86,8 @@ saat mendapatkan fokus.
     }
 ```    
 
-# Hasil Tampilan
-https://github.com/firaaaa10/Latihan1_AplikasiPertambahanDuaAngka/blob/main/Cuplikan%20layar%202024-11-04%20095949.png
+# Hasil Gambar Project Ketika di Run
+![](https://github.com/firaaaa10/Latihan1_AplikasiPertambahanDuaAngka/blob/main/Cuplikan%20layar%202024-11-04%20095949.png)
 ## Indikator Penilaian:
 
 | No  | Komponen         |  Persentase  |
