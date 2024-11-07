@@ -2,8 +2,10 @@
  Siti Safira - 2210010336
 
 # Deskripsi Program
-  • Pengguna memasukkan dua angka
+• Pengguna memasukkan dua angka
+
 • Saat tombol Tambah diklik akan menampilkan hasil pertambahan
+
 • Saat tombol Hapus diklik akan menghapus nilai di TextField dan
 mengarahkan fokus ke TextField angka pertama
 
@@ -84,6 +86,8 @@ saat mendapatkan fokus.
     }
 ```    
 
+# Hasil Tampilan
+https://github.com/firaaaa10/Latihan1_AplikasiPertambahanDuaAngka/blob/main/Cuplikan%20layar%202024-11-04%20095949.png
 ## Indikator Penilaian:
 
 | No  | Komponen         |  Persentase  |
