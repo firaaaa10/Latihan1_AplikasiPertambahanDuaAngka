@@ -1,7 +1,7 @@
 # Latihan1_AplikasiPertambahanDuaAngka
  Siti Safira - 2210010336
 
-# Deskripsi Program:
+# Deskripsi Program
   • Pengguna memasukkan dua angka
 • Saat tombol Tambah diklik akan menampilkan hasil pertambahan
 • Saat tombol Hapus diklik akan menghapus nilai di TextField dan
@@ -14,7 +14,7 @@ mengarahkan fokus ke TextField angka pertama
 - JButton dengan label "Hapus" untuk mengosongkan input.
 - JButton dengan label "Keluar" untuk menutup aplikasi.
 
-#Logika Program: 
+# Logika Program
 Penambahan dua angka, validasi input numerik
 
 # Events
@@ -97,5 +97,5 @@ saat mendapatkan fokus.
 
 ## Pembuat
 
-Nama:
-NPM:
+Nama  : Siti Safira
+NPM   : 2210010336
